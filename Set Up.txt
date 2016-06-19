@@ -1,0 +1,24 @@
+June 19th, 2016
+
+The following are instructions to play Space Ace completely free on Daphne Laserdisc emulator. I had trouble myself finding all the files to run it, and what to do online. So, I thought I would share how I figured
+everything out.
+
+1. Download Daphne at: http://www.daphne-emu.com/site3/index_hi.php . It is a great laserdisc emulator which allows you to play many laserdisc arcade games like Dragon's Lair, Dragon's Lair 2,
+and Space Ace.
+2. Extract Daphne to C:\ drive (if you do not put it here, you will need to edit the batch file I have supplied with this folder)
+3. Rename the daphne folder in the C:\ drive from "daphne-1.0v-win32" to simply just "daphne" (Some of you may realize this isn't entirely necessary, but just bear with me, it's just the 
+way I set it up, and this way you don't need to re-write stuff)
+4. Extract "ace.zip" to C:\daphne\roms . C:\daphne\roms . Make sure the files are just under the one sub folder in roms (eg. C:\daphne\roms\ace\)
+5. You will need the text document in this file labelled "ace.txt" included in this folder. Place this file under C:\daphne\framefile\
+6. Download "SPACEACEFRAME.rar" from: http://www.filedropper.com/spaceaceframe
+7. Extract "SPACEACEFRAME.rar" to C:\daphne\
+8. Finally, take "ace.bat", and place it under C:\daphne\
+9. Now run "ace.bat". Space Ace should be working.
+
+Tips:
+	- It will take a little to boot up, so be patient
+	- Once it runs through all the way to the intro scene, you can start. Press "6" to insert coin, and press "1" to start.
+	- I recommend using a controller of some sort, makes for a better experience I find
+
+
+Have fun! 
